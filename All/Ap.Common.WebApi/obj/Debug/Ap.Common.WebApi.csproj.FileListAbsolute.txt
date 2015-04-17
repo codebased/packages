@@ -1,0 +1,13 @@
+C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\Ap.Common.WebApi.dll
+C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\Ap.Common.WebApi.pdb
+C:\gits\personal\packages\All\Ap.Common.WebApi\obj\Debug\Ap.Common.WebApi.dll
+C:\gits\personal\packages\All\Ap.Common.WebApi\obj\Debug\Ap.Common.WebApi.pdb
+C:\gits\personal\packages\All\Ap.Common.WebApi\obj\Debug\Ap.Common.WebApi.csprojResolveAssemblyReference.cache
+C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\Newtonsoft.Json.dll
+C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\System.Web.Http.dll
+C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\System.Web.Http.WebHost.dll
+C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\Newtonsoft.Json.xml
+C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\System.Web.Http.xml
+C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\System.Web.Http.WebHost.xml
