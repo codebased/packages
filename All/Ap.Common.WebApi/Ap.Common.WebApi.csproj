@@ -62,7 +62,7 @@
     <Compile Include="ErrorController.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="GenericTextExceptionHandler.cs" />
-    <Compile Include="ApiConfiguration.cs" />
+    <Compile Include="Configuration.cs" />
     <Compile Include="HttpNotFoundAwareControllerActionSelector.cs" />
     <Compile Include="HttpNotFoundAwareDefaultHttpControllerSelector.cs" />
     <Compile Include="HttpResults\BadRequestResult.cs" />

@@ -1,0 +1,7 @@
+C:\gits\personal\packages\All\Ap.Mailer\bin\Debug\Ap.Mailer.dll
+C:\gits\personal\packages\All\Ap.Mailer\bin\Debug\Ap.Mailer.pdb
+C:\gits\personal\packages\All\Ap.Mailer\bin\Debug\Ap.Common.Extensions.dll
+C:\gits\personal\packages\All\Ap.Mailer\bin\Debug\Ap.Common.Extensions.pdb
+C:\gits\personal\packages\All\Ap.Mailer\obj\Debug\Ap.Mailer.csprojResolveAssemblyReference.cache
+C:\gits\personal\packages\All\Ap.Mailer\obj\Debug\Ap.Mailer.dll
+C:\gits\personal\packages\All\Ap.Mailer\obj\Debug\Ap.Mailer.pdb
