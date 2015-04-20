@@ -1,0 +1,5 @@
+C:\gits\personal\packages\All\Ap.EntityFramework\bin\Debug\Ap.EntityFramework.dll
+C:\gits\personal\packages\All\Ap.EntityFramework\bin\Debug\Ap.EntityFramework.pdb
+C:\gits\personal\packages\All\Ap.EntityFramework\obj\Debug\Ap.EntityFramework.csprojResolveAssemblyReference.cache
+C:\gits\personal\packages\All\Ap.EntityFramework\obj\Debug\Ap.EntityFramework.dll
+C:\gits\personal\packages\All\Ap.EntityFramework\obj\Debug\Ap.EntityFramework.pdb

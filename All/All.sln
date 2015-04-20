@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ap.IISLogger", "Ap.IISLogge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ap.Logger", "Ap.Logger\Ap.Logger.csproj", "{C893F305-9B3A-426B-8385-EAB462FEDDA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ap.EntityFramework", "Ap.EntityFramework\Ap.EntityFramework.csproj", "{5707E594-8192-41F1-85B9-488B0371DAA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C893F305-9B3A-426B-8385-EAB462FEDDA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C893F305-9B3A-426B-8385-EAB462FEDDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C893F305-9B3A-426B-8385-EAB462FEDDA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5707E594-8192-41F1-85B9-488B0371DAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5707E594-8192-41F1-85B9-488B0371DAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5707E594-8192-41F1-85B9-488B0371DAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5707E594-8192-41F1-85B9-488B0371DAA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
