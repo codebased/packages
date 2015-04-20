@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ap.Common.CloudMaker", "Ap.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ap.Common.Dumper", "Ap.Common.Dumper\Ap.Common.Dumper.csproj", "{DB197B45-B431-470B-9567-07F620B1F65C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ap.IISLogger", "Ap.IISLogger\Ap.IISLogger.csproj", "{269EA44A-F201-4D79-A422-DD77324C9BD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DB197B45-B431-470B-9567-07F620B1F65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB197B45-B431-470B-9567-07F620B1F65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB197B45-B431-470B-9567-07F620B1F65C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{269EA44A-F201-4D79-A422-DD77324C9BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269EA44A-F201-4D79-A422-DD77324C9BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269EA44A-F201-4D79-A422-DD77324C9BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269EA44A-F201-4D79-A422-DD77324C9BD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

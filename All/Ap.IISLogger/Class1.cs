@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ap.Common.Extensions
+namespace Ap.IISLogger
 {
-    public static class Objects
+    public class Class1
     {
     }
 }
