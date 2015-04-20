@@ -1,0 +1,5 @@
+C:\gits\personal\packages\All\Ap.Common.CloudMaker\bin\Debug\Ap.Common.CloudMaker.dll
+C:\gits\personal\packages\All\Ap.Common.CloudMaker\bin\Debug\Ap.Common.CloudMaker.pdb
+C:\gits\personal\packages\All\Ap.Common.CloudMaker\obj\Debug\Ap.Common.CloudMaker.csprojResolveAssemblyReference.cache
+C:\gits\personal\packages\All\Ap.Common.CloudMaker\obj\Debug\Ap.Common.CloudMaker.dll
+C:\gits\personal\packages\All\Ap.Common.CloudMaker\obj\Debug\Ap.Common.CloudMaker.pdb

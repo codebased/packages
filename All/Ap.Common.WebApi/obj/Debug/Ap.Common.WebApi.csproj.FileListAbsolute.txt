@@ -11,3 +11,5 @@ C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\Newtonsoft.Json.xml
 C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\System.Net.Http.Formatting.xml
 C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\System.Web.Http.xml
 C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\System.Web.Http.WebHost.xml
+C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\Ap.Common.dll
+C:\gits\personal\packages\All\Ap.Common.WebApi\bin\Debug\Ap.Common.pdb

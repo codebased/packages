@@ -57,7 +57,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApiResponseBase.cs" />
     <Compile Include="ErrorController.cs" />
+    <Compile Include="Extensions.cs" />
     <Compile Include="Helper.cs" />
     <Compile Include="HttpNotFoundAwareControllerActionSelector.cs" />
     <Compile Include="HttpNotFoundAwareDefaultHttpControllerSelector.cs" />
@@ -65,6 +67,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ap.Common\Ap.Common.csproj">
+      <Project>{0ecf0d02-9f5f-4fe7-8416-0d69de92aca3}</Project>
+      <Name>Ap.Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
