@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Specialized;
 using System.Linq;
 using System.Net;
 using System.Text.RegularExpressions;
@@ -118,10 +119,10 @@ namespace Ap.Common.Extensions
                 source = "http://" + source;
             try
             {
-                var request = (HttpWebRequest) WebRequest.Create(source);
+                var request = (HttpWebRequest)WebRequest.Create(source);
                 request.Method = "GET";
                 request.ContentType = "application/x-www-form-urlencoded";
-                var webresponse = (HttpWebResponse) request.GetResponse();
+                var webresponse = (HttpWebResponse)request.GetResponse();
                 return true;
             }
             catch
@@ -141,6 +142,11 @@ namespace Ap.Common.Extensions
             string result;
             var found = queryValues.TryGetValue(paramName.ToLower().Trim(), out result);
             return found ? result : string.Empty;
+        }
+
+        public static string Map(this string source, NameValueCollection data)
+        {
+            return Regex.Replace(source, @"\{(.+?)\}", match => data[match.Groups[1].Value]);
         }
     }
 }
