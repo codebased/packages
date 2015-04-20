@@ -11,9 +11,8 @@ namespace Ap.Common.WebApi
     {
         public static TResponse ExecuteAction<TResponse>(this ApiController controller, Func<TResponse> method,
             string exceptionError)
-            where TResponse : ApiResponseBase, new()
+            where TResponse : ResponseBase, new()
         {
-
             try
             {
                 var response = method();

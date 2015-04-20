@@ -58,11 +58,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApiResponseBase.cs" />
+    <Compile Include="ResponseBase.cs" />
     <Compile Include="ErrorController.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="GenericTextExceptionHandler.cs" />
-    <Compile Include="Helper.cs" />
+    <Compile Include="ApiConfiguration.cs" />
     <Compile Include="HttpNotFoundAwareControllerActionSelector.cs" />
     <Compile Include="HttpNotFoundAwareDefaultHttpControllerSelector.cs" />
     <Compile Include="HttpResults\BadRequestResult.cs" />

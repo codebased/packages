@@ -3,7 +3,7 @@ using System.Net;
 
 namespace Ap.Common.WebApi
 {
-    public class ApiResponseBase : OperationResult
+    public class ResponseBase : OperationResult
     {
         public HttpStatusCode StatusCode { get; set; }
     }

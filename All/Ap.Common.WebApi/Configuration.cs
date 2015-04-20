@@ -4,7 +4,7 @@ using System.Web.Http.Dispatcher;
 
 namespace Ap.Common.WebApi
 {
-    public static class Helper
+    public static class Configuration
     {
         public static void Initialize()
         {
