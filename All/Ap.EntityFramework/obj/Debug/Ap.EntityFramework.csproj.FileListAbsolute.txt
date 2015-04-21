@@ -3,3 +3,8 @@ C:\gits\personal\packages\All\Ap.EntityFramework\bin\Debug\Ap.EntityFramework.pd
 C:\gits\personal\packages\All\Ap.EntityFramework\obj\Debug\Ap.EntityFramework.csprojResolveAssemblyReference.cache
 C:\gits\personal\packages\All\Ap.EntityFramework\obj\Debug\Ap.EntityFramework.dll
 C:\gits\personal\packages\All\Ap.EntityFramework\obj\Debug\Ap.EntityFramework.pdb
+C:\gits\personal\packages\All\Ap.EntityFramework\bin\Debug\Ap.EntityFramework.dll.config
+C:\gits\personal\packages\All\Ap.EntityFramework\bin\Debug\EntityFramework.dll
+C:\gits\personal\packages\All\Ap.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\gits\personal\packages\All\Ap.EntityFramework\bin\Debug\EntityFramework.xml
+C:\gits\personal\packages\All\Ap.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml

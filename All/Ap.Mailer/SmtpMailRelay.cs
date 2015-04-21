@@ -1,6 +1,4 @@
-﻿
-
-using System;
+﻿using System;
 using System.Collections.ObjectModel;
 using System.Net.Mail;
 using Ap.Common.Extensions;
@@ -26,15 +24,15 @@ namespace Ap.Mailer
 
         public bool SendMail(MailAddress to, string subject, string body)
         {
-            var addresses = new MailAddressCollection { to };
+            var addresses = new MailAddressCollection {to};
 
             return SendMail(addresses, subject, body, null);
         }
 
         public bool SendMail(MailAddress to, string subject, string body, Attachment attachment)
         {
-            var addresses = new MailAddressCollection { to };
-            var attachments = new Collection<Attachment> { attachment };
+            var addresses = new MailAddressCollection {to};
+            var attachments = new Collection<Attachment> {attachment};
             return SendMail(addresses, subject, body, attachments);
         }
 
