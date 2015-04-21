@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assemblies.cs" />
     <Compile Include="CollectionExtensions.cs" />
     <Compile Include="Dates.cs" />
     <Compile Include="Enumerables.cs" />
