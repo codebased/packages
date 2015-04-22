@@ -1,4 +1,0 @@
-C:\gits\personal\packages\All\Ap.Common\bin\Debug\Ap.Common.dll
-C:\gits\personal\packages\All\Ap.Common\bin\Debug\Ap.Common.pdb
-C:\gits\personal\packages\All\Ap.Common\obj\Debug\Ap.Common.dll
-C:\gits\personal\packages\All\Ap.Common\obj\Debug\Ap.Common.pdb

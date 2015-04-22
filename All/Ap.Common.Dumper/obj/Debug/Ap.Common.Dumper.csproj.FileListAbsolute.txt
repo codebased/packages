@@ -1,4 +1,0 @@
-C:\gits\personal\packages\All\Ap.Common.Dumper\bin\Debug\Ap.Common.Dumper.dll
-C:\gits\personal\packages\All\Ap.Common.Dumper\bin\Debug\Ap.Common.Dumper.pdb
-C:\gits\personal\packages\All\Ap.Common.Dumper\obj\Debug\Ap.Common.Dumper.dll
-C:\gits\personal\packages\All\Ap.Common.Dumper\obj\Debug\Ap.Common.Dumper.pdb

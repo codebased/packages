@@ -1,9 +1,0 @@
-C:\gits\personal\packages\All\Ap.IISLogger\bin\Debug\Ap.IISLogger.dll
-C:\gits\personal\packages\All\Ap.IISLogger\bin\Debug\Ap.IISLogger.pdb
-C:\gits\personal\packages\All\Ap.IISLogger\bin\Debug\Ap.Common.dll
-C:\gits\personal\packages\All\Ap.IISLogger\bin\Debug\Ap.Common.Extensions.dll
-C:\gits\personal\packages\All\Ap.IISLogger\bin\Debug\Ap.Common.Extensions.pdb
-C:\gits\personal\packages\All\Ap.IISLogger\bin\Debug\Ap.Common.pdb
-C:\gits\personal\packages\All\Ap.IISLogger\obj\Debug\Ap.IISLogger.csprojResolveAssemblyReference.cache
-C:\gits\personal\packages\All\Ap.IISLogger\obj\Debug\Ap.IISLogger.dll
-C:\gits\personal\packages\All\Ap.IISLogger\obj\Debug\Ap.IISLogger.pdb
